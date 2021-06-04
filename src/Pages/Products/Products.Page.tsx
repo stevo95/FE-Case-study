@@ -1,7 +1,6 @@
 import ProductComponent from '../../Components/Product.Component'
 import { useHistory } from 'react-router-dom';
 import { getProducts } from '../../Services'
-import './Products.Page.css';
 import React from 'react';
 
 

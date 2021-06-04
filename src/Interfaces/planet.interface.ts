@@ -4,5 +4,4 @@ export interface Planet {
   unit_price_incl_vat: number;
   vat_category: number;
   stock_quantity: number;
-  url?: string;
 }
